@@ -1,0 +1,40 @@
+{
+  "Faq": [
+    {
+      "ques": "What is SplitPay?",
+      "ans": "SplitPay is a collaborative expense management and payment automation platform designed to help families or groups of friends split expenses based on individual incomes. It simplifies cost-sharing by automatically calculating and allocating each person’s share of an expense according to their salary, ensuring fair and proportional contributions."
+    },
+    {
+      "ques": "How does SplitPay work?",
+      "ans": "SplitPay allows users to create a group of participants, add recurring or one-time expenses, and enter each participant’s income details. The platform then calculates the fair share for each person and can automate payments to settle the expenses seamlessly."
+    },
+    {
+      "ques": "Is SplitPay secure for managing payments?",
+      "ans": "Yes, SplitPay is built with robust security measures to ensure that all transactions and personal data are secure. We use encryption and follow industry-standard practices to protect user information and payments."
+    },
+    {
+      "ques": "Do I need to link my bank account to SplitPay?",
+      "ans": "To automate payments, linking your bank account or preferred payment method (credit card, digital wallets, etc.) is required. However, if you prefer, you can still use SplitPay to calculate and track contributions without automating payments."
+    },
+    {
+      "ques": "How does SplitPay ensure fair contributions?",
+      "ans": "SplitPay uses a proportional allocation method based on each participant’s salary. Higher earners contribute more, while lower earners contribute less, ensuring the distribution of expenses is equitable."
+    },
+    {
+      "ques": "Is there a mobile app for SplitPay?",
+      "ans": "We’re working on a mobile app that will be available soon on both iOS and Android platforms to make managing your expenses even more convenient. Stay tuned for updates!"
+    },
+    {
+      "ques": "How can I keep track of my expenses?",
+      "ans": "SplitPay provides detailed reports and summaries, making it easy to track individual and group expenses. You can view a breakdown of each member's contributions and see outstanding or upcoming payments."
+    },
+    {
+      "ques": "Is there a fee for using SplitPay?",
+      "ans": "SplitPay offers both free and premium plans. The free plan allows basic expense tracking and splitting, while the premium plan provides additional features like payment automation, advanced reporting, and priority support."
+    },
+    {
+      "ques": " How do I get started with SplitPay?",
+      "ans": "Simply sign up on our website, create your group, add expenses, and invite members. You can start splitting costs and tracking payments right away!"
+    }
+  ]
+}
